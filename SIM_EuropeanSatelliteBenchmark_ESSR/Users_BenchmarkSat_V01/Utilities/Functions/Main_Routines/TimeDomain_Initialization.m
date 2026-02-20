@@ -1,0 +1,24 @@
+% ========================================================================
+%                           Time Domain Initialization 
+%
+% In this script you can find the initialization data to run a simulation
+% of the benchmark
+%
+%-------------------------------------------------------------------------
+% Copyright (c) ISAE-SUPAERO, All Rights Reserved.
+% Paolo Iannelli, Francesco Sanfedino, Daniel Alazard (2024)
+
+% All folders and files in this forder are licenced under the 
+% European Space Agency Public Licence - v2.4 - Permissive (Type 3) 
+% [https://essr.esa.int/license/european-space-agency-public-license-v2-4-permissive-type-3]
+
+% The development of this software was possible thanks to the
+% ESA Contract No. 4000141060/23/NL/MGu.
+
+% IMPORTANT: Any use of the present software or part of it (i.g. presentations, official documents, 
+% scientific article or report) should be correctly referred to as follows:
+% "Sanfedino, F. and Iannelli, P. and Alazard, D. and Pelletier, É. 
+% and Bennani, S. and Girouart, B., European Satellite Benchmark 
+% for Control Education and Industrial Training, IFAC-PapersOnLine, 
+% Volume 58, Issue 16, 2024, pp. 193-198" 
+%-------------------------------------------------------------------------
